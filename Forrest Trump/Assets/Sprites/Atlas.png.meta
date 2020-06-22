@@ -1,0 +1,610 @@
+fileFormatVersion: 2
+guid: 4be7ac3c21256744fa2fa2ff8492a632
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4018074224661003100
+    second: cuerpo
+  - first:
+      213: -4869357254534750094
+    second: fruta
+  - first:
+      213: -6721728136321296765
+    second: colaB
+  - first:
+      213: -7826287199498012479
+    second: bloqueMediano
+  - first:
+      213: 5327950094024008212
+    second: colaA
+  - first:
+      213: 6615319868462110837
+    second: pataInferiorB
+  - first:
+      213: -1347233719151212251
+    second: pataSuperiorB
+  - first:
+      213: 7870480730772048316
+    second: orejaIzquierda
+  - first:
+      213: -407774699277236136
+    second: cabeza
+  - first:
+      213: -5599750456436461424
+    second: boqueCorto
+  - first:
+      213: -7450669156800766785
+    second: orejaDerecha
+  - first:
+      213: -4272707242783423304
+    second: pataSuperiorA
+  - first:
+      213: 1726203059708922746
+    second: pataInferiorA
+  - first:
+      213: 3628468241054914511
+    second: bloqueLargo
+  - first:
+      213: 4018074224661003100
+    second: cuerpo
+  - first:
+      213: -4869357254534750094
+    second: fruta
+  - first:
+      213: -6721728136321296765
+    second: cola1
+  - first:
+      213: -7826287199498012479
+    second: bloqueMediano
+  - first:
+      213: 5327950094024008212
+    second: cola2
+  - first:
+      213: 6615319868462110837
+    second: pata3
+  - first:
+      213: -1347233719151212251
+    second: pata4
+  - first:
+      213: 7870480730772048316
+    second: oreja2
+  - first:
+      213: -407774699277236136
+    second: cabeza
+  - first:
+      213: -5599750456436461424
+    second: "bloquePeque\xF1o"
+  - first:
+      213: -7450669156800766785
+    second: oreja1
+  - first:
+      213: -4272707242783423304
+    second: pata1
+  - first:
+      213: 1726203059708922746
+    second: pata2
+  - first:
+      213: 3628468241054914511
+    second: bloqueGrande
+  - first:
+      213: 4018074224661003100
+    second: cuerpo
+  - first:
+      213: -4869357254534750094
+    second: fruta
+  - first:
+      213: -6721728136321296765
+    second: ColaB
+  - first:
+      213: -7826287199498012479
+    second: bloqueMediano
+  - first:
+      213: 5327950094024008212
+    second: ColaA
+  - first:
+      213: 6615319868462110837
+    second: Pie
+  - first:
+      213: -1347233719151212251
+    second: PataSuperiorDerechaB
+  - first:
+      213: 7870480730772048316
+    second: Oreja2
+  - first:
+      213: -407774699277236136
+    second: cabeza
+  - first:
+      213: -5599750456436461424
+    second: "bloquePeque\xF1o"
+  - first:
+      213: -7450669156800766785
+    second: Oreja1
+  - first:
+      213: -4272707242783423304
+    second: PataSuperiorDerechaA
+  - first:
+      213: 1726203059708922746
+    second: PataInferiorDerechaA
+  - first:
+      213: 3628468241054914511
+    second: bloqueGrande
+  - first:
+      213: 4018074224661003100
+    second: Cuerpo
+  - first:
+      213: -4869357254534750094
+    second: Fruta
+  - first:
+      213: -6721728136321296765
+    second: ColaB
+  - first:
+      213: -7826287199498012479
+    second: BloqueMediano
+  - first:
+      213: 5327950094024008212
+    second: ColaA
+  - first:
+      213: 6615319868462110837
+    second: Pie
+  - first:
+      213: -1347233719151212251
+    second: BrazoB
+  - first:
+      213: 7870480730772048316
+    second: OrejaB
+  - first:
+      213: -407774699277236136
+    second: Cabeza
+  - first:
+      213: -5599750456436461424
+    second: "BloquePeque\xF1o"
+  - first:
+      213: -7450669156800766785
+    second: OrejaA
+  - first:
+      213: -4272707242783423304
+    second: BrazoA
+  - first:
+      213: 1726203059708922746
+    second: PataDerechaA
+  - first:
+      213: 3628468241054914511
+    second: BloqueGrande
+  - first:
+      213: -3513202607186615407
+    second: Atlas_14
+  - first:
+      213: 4018074224661003100
+    second: Cuerpo
+  - first:
+      213: -4869357254534750094
+    second: Fruta
+  - first:
+      213: -6721728136321296765
+    second: ColaB
+  - first:
+      213: -7826287199498012479
+    second: BloqueMediano
+  - first:
+      213: 5327950094024008212
+    second: ColaA
+  - first:
+      213: 6615319868462110837
+    second: Pie
+  - first:
+      213: -1347233719151212251
+    second: BrazoB
+  - first:
+      213: 7870480730772048316
+    second: Oreja2
+  - first:
+      213: -407774699277236136
+    second: Cabeza
+  - first:
+      213: -5599750456436461424
+    second: "BloquePeque\xF1o"
+  - first:
+      213: -7450669156800766785
+    second: Oreja1
+  - first:
+      213: -4272707242783423304
+    second: BrazoA
+  - first:
+      213: 1726203059708922746
+    second: PataA
+  - first:
+      213: 3628468241054914511
+    second: BloqueGrande
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 110
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cuerpo
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 148
+        width: 96
+        height: 106
+      alignment: 9
+      pivot: {x: 0.477201, y: 0.46902755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7761317e112f5b341ba5ef369172d052
+      internalID: 4018074224661003100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruta
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 172
+        width: 68
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5523042, y: 0.6501409}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2437141770282fa43b1765a84ee41cc6
+      internalID: -4869357254534750094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColaB
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 229
+        width: 51
+        height: 25
+      alignment: 9
+      pivot: {x: 0.86865354, y: 0.66451174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57fc2d13eed92945adef1226495d943
+      internalID: -6721728136321296765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloqueMediano
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 160
+        width: 547
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3740e02ff5f79c74698db912d7bdd13d
+      internalID: -7826287199498012479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColaA
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 174
+        width: 48
+        height: 53
+      alignment: 9
+      pivot: {x: 0.8427327, y: 0.8325705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ea5cd826d540045b9aa26464f1ed45
+      internalID: 5327950094024008212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pie
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 157
+        width: 25
+        height: 13
+      alignment: 9
+      pivot: {x: 0.30301514, y: 0.7946355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d42531e842204459be63c938121f34
+      internalID: 6615319868462110837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrazoB
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 115
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0.57663625, y: 0.8552573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ba8a6f70959c141ae91f72e0434cd7
+      internalID: -1347233719151212251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oreja2
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 121
+        width: 38
+        height: 51
+      alignment: 9
+      pivot: {x: 0.6546181, y: 0.20046908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493f016915c63a540bef2b056129b327
+      internalID: 7870480730772048316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cabeza
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 62
+        width: 101
+        height: 84
+      alignment: 9
+      pivot: {x: 0.44182757, y: 0.1083058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f026687f3e42d240a82812db55b744f
+      internalID: -407774699277236136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BloquePeque\xF1o"
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 85
+        width: 275
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23a1aa07a1a11b4b8cef3a384e6e7a6
+      internalID: -5599750456436461424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oreja1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 45
+        height: 58
+      alignment: 9
+      pivot: {x: 0.7089035, y: 0.2163593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d82b11441cd6284f84d3a921311622d
+      internalID: -7450669156800766785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrazoA
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 2
+        width: 42
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8039005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14640b2be3adee64fb230944ea277c1d
+      internalID: -4272707242783423304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PataA
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 3
+        width: 45
+        height: 57
+      alignment: 9
+      pivot: {x: 0.47388712, y: 0.8092321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3654a37ce0277ab4f8e2942db587085d
+      internalID: 1726203059708922746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloqueGrande
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 17
+        width: 824
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97b334b599e57444824414f92dcb639
+      internalID: 3628468241054914511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
